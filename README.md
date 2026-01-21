@@ -11,7 +11,7 @@ A fast-moving ball rolls forward while sunlight beams cut across the path, makin
 ## Controls
 - `A` / `D` (or left/right input axis): strafe horizontally while the ball keeps rolling.
 - `R`: restart the level (loads scene index 1); press this after dying to try again.
-- Hitting level bounds or falling too far ends the run.
+- Hitting a barricade or falling down the road ends the run.
 
 ## Project Contents
 - `Player.cs`: forward motion, horizontal steering, camera tilt, restart handling, death effect.
