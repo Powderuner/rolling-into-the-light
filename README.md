@@ -1,7 +1,7 @@
 # Rolling Into The Light
 
+![VideoProject-ezgif com-optimize (3)](https://github.com/user-attachments/assets/e7b4454d-700e-4c0d-bfac-1b35126e2154)
 
-![VideoProject-ezgif com-optimize](https://github.com/user-attachments/assets/a6e7f18c-742a-4e6a-81b9-46d3548e8935)
 
 
 A fast-moving ball rolls forward while sunlight beams cut across the path, making it harder to see and dodge obstacles. Keep your momentum, read the light, and reach the finish without getting smashed or falling.
