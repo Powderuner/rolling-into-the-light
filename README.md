@@ -30,9 +30,3 @@ A fast-moving ball rolls forward while sunlight beams cut across the path, makin
 2) Open the project in Unity (created for a standard 3D setup; reassign scenes and references as needed).
 3) Ensure the player prefab has the listed scripts and a `BgMusic` object exists or is spawned.
 4) Press Play to test; steer with `A/D`, dodge obstacles, and reach the finish.
-
-## Notes
-- Time is paused on death or when reaching the finish (via `Time.timeScale`), so you may need to reset it in editor when debugging.
-- Background music is instantiated once and marked `DontDestroyOnLoad`.
-
-
