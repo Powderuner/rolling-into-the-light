@@ -1,5 +1,9 @@
 # Rolling Into The Light
 
+
+https://github.com/user-attachments/assets/b312383d-1bad-4733-9c3f-9d923a65fc90
+
+
 A fast-moving ball rolls forward while sunlight beams cut across the path, making it harder to see and dodge obstacles. Keep your momentum, read the light, and reach the finish without getting smashed or falling.
 
 ## Gameplay
